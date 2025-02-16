@@ -4,6 +4,6 @@ This repo walks users through how to install JupyterHub on cloud platforms like 
 
 ### AWS
 
-Please check out [here](./tutorials/instructions_for_aws.md)
+Please check out [here](./tutorials/instructions_for_aws.md).
 
 ![image](./docs/aws_system.png)
